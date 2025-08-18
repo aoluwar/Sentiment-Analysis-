@@ -66,7 +66,7 @@ Node.js 16+ (for frontend)
 Installation
 Clone the repository
 
-git clone https://github.com/deethepytor/sentiment-analysis-system.git
+git clone https://github.com/aoluwar/sentiment-analysis-system.git
 cd sentiment-analysis-system
 Create virtual environment
 
