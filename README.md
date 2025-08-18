@@ -230,7 +230,7 @@ MIT License - see LICENSE file for details.
 Support
 Documentation: docs/
 Issues: GitHub Issues
-Email: deethepytor@example.com
+Email: aoluwar@gmail.com
 Discord: Community Server
 Roadmap
  Multi-modal sentiment analysis (text + images)
